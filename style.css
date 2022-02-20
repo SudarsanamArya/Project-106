@@ -1,0 +1,14 @@
+.header_div{
+    background-color: rgb(162, 166, 168);
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h2{
+    font-family: fantasy;
+}
+
+button{
+    margin-top: 100;
+    width: 100;
+    font-family: fantasy;
+}
